@@ -4,6 +4,8 @@
   "description": "A Night Theme for Night Programmers",
   "version": "0.0.10",
   "publisher": "Azeny",
+  "license": "MIT",
+  "icon": "assets/logo.png",
   "engines": {
     "vscode": "^1.41.0"
   },
@@ -26,6 +28,11 @@
         "label": "Azeny (Other)",
         "uiTheme": "vs-dark",
         "path": "./themes/azeny-secondary.json"
+      },
+      {
+        "label": "Azeny Test",
+        "uiTheme": "vs-dark",
+        "path": "./themes/#"
       }
     ]
   },
@@ -36,7 +43,6 @@
   "bugs": {
     "url": "https://github.com/Azeny/visual-studio-code/issues"
   },
-  "icon": "assets/logo.png",
   "galleryBanner": {
     "color": "#1c1d28",
     "theme": "dark"
