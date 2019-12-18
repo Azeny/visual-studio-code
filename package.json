@@ -1,14 +1,20 @@
 {
   "name": "azeny",
   "displayName": "Azeny Theme",
-  "description": "A VSCode Night Theme for Night Programmers",
+  "description": "A Night Theme for Night Programmers",
   "version": "0.0.5",
-  "publisher": "Azeny",
+  "publisher": "JoaoPedroAlvarenga",
   "engines": {
     "vscode": "^1.41.0"
   },
   "categories": [
-    "Themes"
+    "Themes",
+    "Other"
+  ],
+  "keywords": [
+    "dark",
+    "theme",
+    "color-theme"
   ],
   "contributes": {
     "themes": [
