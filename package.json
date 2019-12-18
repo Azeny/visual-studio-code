@@ -3,6 +3,7 @@
   "displayName": "Azeny Theme",
   "description": "A VSCode Night Theme for Night Programmers",
   "version": "0.0.3",
+  "publisher": "Azeny",
   "engines": {
     "vscode": "^1.41.0"
   },
