@@ -1,0 +1,21 @@
+{
+  "name": "azeny",
+  "displayName": "Azeny",
+  "description": "A VSCode Night Theme for Night Programmers",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.41.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Azeny",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Azeny.json"
+      }
+    ]
+  }
+}
