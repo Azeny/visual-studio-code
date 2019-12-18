@@ -20,12 +20,12 @@
       {
         "label": "Azeny",
         "uiTheme": "vs-dark",
-        "path": "./themes/Azeny.json"
+        "path": "./themes/azeny.json"
       },
       {
         "label": "Azeny (Other)",
         "uiTheme": "vs-dark",
-        "path": "./themes/AzenySecondary.json"
+        "path": "./themes/azeny-secondary.json"
       }
     ]
   },
@@ -35,5 +35,10 @@
   },
   "bugs": {
     "url": "https://github.com/Azeny/visual-studio-code/issues"
+  },
+  "icon": "assets/logo.png",
+  "galleryBanner": {
+    "color": "#00f3a4",
+    "theme": "dark"
   }
 }
