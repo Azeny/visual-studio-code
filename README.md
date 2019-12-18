@@ -7,13 +7,17 @@
 <h1 align="center">
   Azeny for Visual Studio Code
 </h1>
-
 <p align="center">
- A VSCode Night Theme for Night Programmers.</p>
+ A VSCode Night Theme for Night Programmers.
+</p>
+<p align="center">    
+    <img src="https://img.shields.io/github/package-json/v/Azeny/visual-studio-code" alt="version"></img>
+    <img src="https://img.shields.io/github/license/Azeny/visual-studio-code" alt="license"></img>
+</p>
 
 ## Install
 
-coming soon
+> _coming soon_
 
 ## Contributors
 
