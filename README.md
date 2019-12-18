@@ -1,8 +1,8 @@
-<!-- <p align="center">
-  <a href="https://github.com/Azeny">
-    <img alt="Azeny Theme" src="">
+<p align="center">
+  <a href="">
+    <img alt="Azeny Theme" src="assets/logo.png" width="300">
   </a>
-</p> -->
+</p>
 
 <h1 align="center">
   Azeny for Visual Studio Code
@@ -15,6 +15,22 @@
     <img src="https://img.shields.io/github/package-json/v/Azeny/visual-studio-code?style=for-the-badge&colorA=9951E8&colorB=8948d0" alt="version"></img>
     <img src="https://vsmarketplacebadge.apphb.com/rating-star/Azeny.azeny.svg?style=for-the-badge&colorA=50f2a7&colorB=40c185" alt="license"></img>
 </p>
+
+<p align="center">
+ <h2>JavaScript</h2>
+  <a href="">
+    <img alt="Azeny Theme" src="assets/js.png">
+  </a>
+</p>
+
+<p align="center">
+ <h2>Python</h2>
+  <a href="">
+    <img alt="Azeny Theme" src="assets/py.png">
+  </a>
+</p>
+
+---
 
 - [Getting started](#getting-started)
   - [Installation](#installation)
@@ -37,7 +53,6 @@
 | <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=17 /> | `Ctrl + Shift + P` |
 |         <img src="https://www.microsoft.com/favicon.ico" width=15 />         | `Ctrl + Shift + P` |
 |        <img src="https://developer.apple.com/favicon.ico" width=20 />        | `⌘ + Shift + P`    |
-|                                                                              |                    |
 
 Type `theme`, choose `Preferences: Color Theme`, Choose `Azeny` and press enter
 
