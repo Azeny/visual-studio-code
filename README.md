@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="">
+  <a href="https://marketplace.visualstudio.com/items?itemName=Azeny.azeny">
     <img alt="Azeny Theme" src="assets/logo.png" width="300">
   </a>
 </p>
@@ -11,21 +11,25 @@
 <p align="center">
  A Night Theme for Night Programmers.
 </p>
-<p align="center">    
+<p align="center">   
+  <a href="https://github.com/Azeny/visual-studio-code"> 
     <img src="https://img.shields.io/github/package-json/v/Azeny/visual-studio-code?style=for-the-badge&colorA=9951E8&colorB=8948d0" alt="version"></img>
-    <img src="https://vsmarketplacebadge.apphb.com/rating-star/Azeny.azeny.svg?style=for-the-badge&colorA=50f2a7&colorB=40c185" alt="license"></img>
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=Azeny.azeny&ssr=false#review-details"> 
+    <img src="https://vsmarketplacebadge.apphb.com/rating-star/Azeny.azeny.svg?style=for-the-badge&colorA=50f2a7&colorB=40c185" alt="rating"></img>
+  </a>
 </p>
 
 <p align="center">
  <h2>JavaScript</h2>
-  <a href="">
+  <a href="https://marketplace.visualstudio.com/items?itemName=Azeny.azeny">
     <img alt="Azeny Theme" src="assets/js.png">
   </a>
 </p>
 
 <p align="center">
  <h2>Python</h2>
-  <a href="">
+  <a href="https://marketplace.visualstudio.com/items?itemName=Azeny.azeny">
     <img alt="Azeny Theme" src="assets/py.png">
   </a>
 </p>
@@ -58,9 +62,9 @@ Type `theme`, choose `Preferences: Color Theme`, Choose `Azeny` and press enter
 
 ## Contributors
 
-| ![Pedro Alvarenga](https://avatars3.githubusercontent.com/u/41977137?v=4&s=70) |
-| :----------------------------------------------------------------------------: |
-|            [Pedro Alvarenga](https://github.com/JoaoPedroAlvarenga)            |
+| [![Pedro Alvarenga](https://avatars3.githubusercontent.com/u/41977137?v=4&s=70)](https://github.com/JoaoPedroAlvarenga) |
+| :---------------------------------------------------------------------------------------------------------------------: |
+|                                [Pedro Alvarenga](https://github.com/JoaoPedroAlvarenga)                                 |
 
 ---
 
