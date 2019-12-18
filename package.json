@@ -2,7 +2,7 @@
   "name": "azeny",
   "displayName": "Azeny Theme",
   "description": "A Night Theme for Night Programmers",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "publisher": "Azeny",
   "engines": {
     "vscode": "^1.41.0"
@@ -38,7 +38,7 @@
   },
   "icon": "assets/logo.png",
   "galleryBanner": {
-    "color": "#00f3a4",
+    "color": "#1c1d28",
     "theme": "dark"
   }
 }
