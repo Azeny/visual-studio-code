@@ -2,7 +2,7 @@
   "name": "azeny",
   "displayName": "Azeny Theme",
   "description": "A Night Theme for Night Programmers",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "publisher": "Azeny",
   "engines": {
     "vscode": "^1.41.0"
