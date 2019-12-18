@@ -27,4 +27,4 @@
 
 ## License
 
-[MIT License](./LICENSE)
+[MIT License](https://github.com/Azeny/visual-studio-code/blob/master/LICENSE)
