@@ -23,23 +23,14 @@
   <img src="https://vsmarketplacebadge.apphb.com/rating-star/Azeny.azeny.svg?style=for-the-badge&colorA=21222C&colorB=50F2A7" alt="rating"></a>
 </p>
 
-<h2>Java Scripy</h2>
 <p align="center">
-  <img width='100%' alt="Azeny Theme" src="assets/language/js.png" >
-</p>
-
-<h2>Python</h2>
-<p align="center">
-  <img width='100%'alt="Azeny Theme" src="assets/language/py.png" >
-</p>
-
-<h2>Ruby</h2>
-<p align="center">
-  <img width='100%'alt="Azeny Theme" src="assets/language/ruby.png" >
+  <a href="README-THEME.md">
+    <img width='77%' alt="Azeny Theme" src="assets/language/js.png" ></a>
 </p>
 
 ---
 
+- [Theme image](README-THEME.md#theme-image)
 - [Getting started](#getting-started)
   - [Installation](#installation)
   - [Activate theme](#activate-theme)
