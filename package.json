@@ -2,7 +2,7 @@
   "name": "azeny",
   "displayName": "Azeny Theme",
   "description": "A Night Theme for Night Programmers",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "publisher": "Azeny",
   "license": "MIT",
   "icon": "assets/logo.png",
@@ -25,14 +25,9 @@
         "path": "./themes/azeny.json"
       },
       {
-        "label": "Azeny (Other)",
+        "label": "Azeny Invert",
         "uiTheme": "vs-dark",
         "path": "./themes/azeny-secondary.json"
-      },
-      {
-        "label": "Azeny Test",
-        "uiTheme": "vs-dark",
-        "path": "./themes/#"
       }
     ]
   },
