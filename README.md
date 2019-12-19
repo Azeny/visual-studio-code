@@ -11,27 +11,31 @@
 <p align="center">
  A Night Theme for Night Programmers.
 </p>
+
 <p align="center">   
   <a href="https://github.com/Azeny/visual-studio-code"> 
-    <img src="https://img.shields.io/github/package-json/v/Azeny/visual-studio-code?style=for-the-badge&colorA=9951E8&colorB=8948d0" alt="version"></img>
-  </a>
+  <img src="https://img.shields.io/github/package-json/v/Azeny/visual-studio-code?style=for-the-badge&colorA=21222C&colorB=50F2A7" alt="version"></a>
+
   <a href="https://marketplace.visualstudio.com/items?itemName=Azeny.azeny&ssr=false#review-details"> 
-    <img src="https://vsmarketplacebadge.apphb.com/rating-star/Azeny.azeny.svg?style=for-the-badge&colorA=50f2a7&colorB=40c185" alt="rating"></img>
-  </a>
+  <img src="https://vsmarketplacebadge.apphb.com/downloads/Azeny.azeny.svg?style=for-the-badge&colorA=21222C&colorB=50F2A7" alt="downloads"></a>
+
+  <a href="https://marketplace.visualstudio.com/items?itemName=Azeny.azeny&ssr=false#review-details"> 
+  <img src="https://vsmarketplacebadge.apphb.com/rating-star/Azeny.azeny.svg?style=for-the-badge&colorA=21222C&colorB=50F2A7" alt="rating"></a>
 </p>
 
+<h2>Java Scripy</h2>
 <p align="center">
- <h2>JavaScript</h2>
-  <a href="https://marketplace.visualstudio.com/items?itemName=Azeny.azeny">
-    <img alt="Azeny Theme" src="assets/js.png">
-  </a>
+  <img width='100%' alt="Azeny Theme" src="assets/language/js.png" >
 </p>
 
+<h2>Python</h2>
 <p align="center">
- <h2>Python</h2>
-  <a href="https://marketplace.visualstudio.com/items?itemName=Azeny.azeny">
-    <img alt="Azeny Theme" src="assets/py.png">
-  </a>
+  <img width='100%'alt="Azeny Theme" src="assets/language/py.png" >
+</p>
+
+<h2>Ruby</h2>
+<p align="center">
+  <img width='100%'alt="Azeny Theme" src="assets/language/ruby.png" >
 </p>
 
 ---
@@ -41,16 +45,14 @@
   - [Activate theme](#activate-theme)
 - [Contributors](#contributors)
 
-## Getting started
-
-### installation
+## installation
 
 1. Open your vscode and press `ctrol + shift + p`
 2. Search for `Install Extension` and press enter
 3. Write `Azeny`
 4. Select it or press Enter to install
 
-### Activate theme
+## Activate theme
 
 |                                      OS                                      | Command            |
 | :--------------------------------------------------------------------------: | :----------------- |
