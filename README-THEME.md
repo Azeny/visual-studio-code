@@ -25,15 +25,19 @@
 
 <h2 align="center">Java Scripy</h2>
 <p align="center">
-  <img width='77%' alt="Azeny Theme" src="assets/language/js.png" >
+  <img width='80%' alt="Azeny Theme" src="assets/language/js.png" >
 </p>
 
 <h2 align="center">Python</h2>
 <p align="center">
-  <img width='77%'alt="Azeny Theme" src="assets/language/py.png" >
+  <img width='80%'alt="Azeny Theme" src="assets/language/py.png" >
 </p>
 
 <h2 align="center">Ruby</h2>
 <p align="center">
-  <img width='77%'alt="Azeny Theme" src="assets/language/ruby.png" >
+  <img width='80%'alt="Azeny Theme" src="assets/language/ruby.png" >
 </p>
+
+---
+
+<p align="center"><a href="https://github.com/Azeny/visual-studio-code/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Azeny/visual-studio-code?style=for-the-badge&colorA=ff5555&colorB=cc4444"/></a></p>

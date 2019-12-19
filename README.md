@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=Azeny.azeny">
-    <img alt="Azeny Theme" src="assets/logo.png" width="300">
+    <img alt="Azeny Theme" src="assets/logo.png" width="250">
   </a>
 </p>
 
@@ -25,10 +25,8 @@
 
 <p align="center">
   <a href="README-THEME.md">
-    <img width='77%' alt="Azeny Theme" src="assets/language/js.png" ></a>
+    <img width='80%' alt="Azeny Theme" src="assets/language/js.png" ></a>
 </p>
-
----
 
 - [Theme image](README-THEME.md#theme-image)
 - [Getting started](#getting-started)
@@ -36,14 +34,14 @@
   - [Activate theme](#activate-theme)
 - [Contributors](#contributors)
 
-## installation
+## Installation
 
 1. Open your vscode and press `ctrol + shift + p`
 2. Search for `Install Extension` and press enter
 3. Write `Azeny`
 4. Select it or press Enter to install
 
-## Activate theme
+## Activate Theme
 
 |                                      OS                                      | Command            |
 | :--------------------------------------------------------------------------: | :----------------- |
