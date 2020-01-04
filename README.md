@@ -53,11 +53,6 @@
 
 Type `theme`, choose `Preferences: Color Theme`, Choose `Azeny` and press enter
 
-## Contributors
-
-| [![Pedro Alvarenga](https://avatars3.githubusercontent.com/u/41977137?v=4&s=70)](https://github.com/JoaoPedroAlvarenga) |
-| :---------------------------------------------------------------------------------------------------------------------: |
-|                                [Pedro Alvarenga](https://github.com/JoaoPedroAlvarenga)                                 |
 
 ---
 
