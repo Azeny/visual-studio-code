@@ -31,10 +31,8 @@
 </p>
 
 - [Theme image](https://github.com/Azeny/visual-studio-code/blob/master/README-THEME.md#theme-image)
-- [Getting started](#getting-started)
-  - [Installation](#installation)
-  - [Activate theme](#activate-theme)
-- [Contributors](#contributors)
+- [Installation](#installation)
+- [Activate theme](#activate-theme)
 
 ## Installation
 
