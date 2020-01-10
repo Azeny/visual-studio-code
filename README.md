@@ -23,25 +23,26 @@
   <img src="https://vsmarketplacebadge.apphb.com/rating-star/Azeny.azeny.svg?style=for-the-badge&colorA=21222C&colorB=50F2A7" alt="Rating"></a>
 </p>
 
-<!-- Daqui para cima alterar nos dois arquivos -->
+<!-- Daqui para cima alterar nos outros arquivos -->
 
 <p align="center">
   <a href="README-THEME.md">
-    <img width='80%' alt="Azeny Theme" src="assets/language/js.png" ></a>
+    <img width='90%' alt="Azeny Theme" src="assets/language/js.png" ></a>
 </p>
 
-- [Theme image](https://github.com/Azeny/visual-studio-code/blob/master/README-THEME.md#theme-image)
-- [Installation](#installation)
+For more previews in other languages click [here](https://github.com/Azeny/visual-studio-code/blob/master/README-THEME.md#theme-image)
+
+- [Install](#install)
 - [Activate theme](#activate-theme)
 
-## Installation
+### Install
 
 1. Open your vscode and press `ctrol + shift + p`
 2. Search for `Install Extension` and press enter
-3. Write `Azeny`
+3. Write Azeny
 4. Select it or press Enter to install
 
-## Activate Theme
+### Activate Theme
 
 |                                      OS                                      | Command            |
 | :--------------------------------------------------------------------------: | :----------------- |
@@ -49,8 +50,7 @@
 |         <img src="https://www.microsoft.com/favicon.ico" width=15 />         | `Ctrl + Shift + P` |
 |        <img src="https://developer.apple.com/favicon.ico" width=20 />        | `⌘ + Shift + P`    |
 
-Type `theme`, choose `Preferences: Color Theme`, Choose `Azeny` and press enter
-
+Type `theme`, choose `Preferences: Color Theme`, choose `Azeny` and press enter
 
 ---
 

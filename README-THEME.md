@@ -23,22 +23,19 @@
   <img src="https://vsmarketplacebadge.apphb.com/rating-star/Azeny.azeny.svg?style=for-the-badge&colorA=21222C&colorB=50F2A7" alt="Rating"></a>
 </p>
 
-<!-- Daqui para cima alterar nos dois arquivos -->
+<!-- Daqui para cima alterar nos outros arquivos -->
 
 <h2 align="center">JavaScripy</h2>
-<p align="center">
-  <img width='80%' alt="Azeny Theme" src="assets/language/js.png" >
-</p>
+
+![JavaScripy](assets/language/js.png)
 
 <h2 align="center">Python</h2>
-<p align="center">
-  <img width='80%'alt="Azeny Theme" src="assets/language/py.png" >
-</p>
+
+![alt](assets/language/py.png)
 
 <h2 align="center">Ruby</h2>
-<p align="center">
-  <img width='80%'alt="Azeny Theme" src="assets/language/ruby.png" >
-</p>
+
+![alt](assets/language/ruby.png)
 
 ---
 
