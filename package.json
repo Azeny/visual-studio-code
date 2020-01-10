@@ -17,6 +17,10 @@
     "theme",
     "color-theme"
   ],
+  "galleryBanner": {
+    "color": "#1c1d28",
+    "theme": "dark"
+  },
   "contributes": {
     "themes": [
       {
@@ -38,8 +42,23 @@
   "bugs": {
     "url": "https://github.com/Azeny/visual-studio-code/issues"
   },
-  "galleryBanner": {
-    "color": "#1c1d28",
-    "theme": "dark"
+  "homepage": "https://github.com/Azeny/visual-studio-code#readme",
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
+      "prepare-commit-msg": "exec < /dev/tty && git cz --hook || true"
+    }
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^8.3.4",
+    "@commitlint/config-conventional": "^8.3.4",
+    "commitizen": "^4.0.3",
+    "cz-conventional-changelog": "3.0.2",
+    "husky": "^4.0.4"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
