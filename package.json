@@ -2,10 +2,10 @@
   "name": "azeny",
   "displayName": "Azeny Theme",
   "description": "A Night Theme for Night Programmers",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "publisher": "Azeny",
   "license": "MIT",
-  "icon": "https://avatars1.githubusercontent.com/u/59007294",
+  "icon": "assets/logo.png",
   "engines": {
     "vscode": "^1.41.0"
   },
