@@ -6,6 +6,9 @@
   "publisher": "Azeny",
   "license": "MIT",
   "icon": "assets/logo.png",
+  "scripts": {
+    "publish": "vsce publish"
+  },
   "engines": {
     "vscode": "^1.41.0"
   },
