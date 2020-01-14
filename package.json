@@ -2,7 +2,7 @@
   "name": "azeny",
   "displayName": "Azeny Theme",
   "description": "A Night Theme for Night Programmers",
-  "version": "0.0.16",
+  "version": "0.0.18",
   "publisher": "Azeny",
   "license": "MIT",
   "icon": "assets/logo.png",
@@ -40,12 +40,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Azeny/visual-studio-code.git"
+    "url": "https://github.com/Azeny/vscode-azeny.git"
   },
   "bugs": {
-    "url": "https://github.com/Azeny/visual-studio-code/issues"
+    "url": "https://github.com/Azeny/vscode-azeny/issues"
   },
-  "homepage": "https://github.com/Azeny/visual-studio-code#readme",
+  "homepage": "https://github.com/Azeny/vscode-azeny#readme",
   "husky": {
     "hooks": {
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",

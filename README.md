@@ -12,15 +12,14 @@
  A Night Theme for Night Programmers.
 </p>
 
-<p align="center">   
-  <a href="https://github.com/Azeny/visual-studio-code"> 
-  <img src="https://img.shields.io/github/package-json/v/Azeny/visual-studio-code?style=for-the-badge&colorA=21222C&colorB=50F2A7" alt="Version"></a>
+<p align="center">
 
   <a href="https://marketplace.visualstudio.com/items?itemName=Azeny.azeny"> 
   <img src="https://vsmarketplacebadge.apphb.com/downloads/Azeny.azeny.svg?style=for-the-badge&colorA=21222C&colorB=50F2A7" alt="Downloads"></a>
 
-  <a href="https://marketplace.visualstudio.com/items?itemName=Azeny.azeny&ssr=false#review-details"> 
-  <img src="https://vsmarketplacebadge.apphb.com/rating-star/Azeny.azeny.svg?style=for-the-badge&colorA=21222C&colorB=50F2A7" alt="Rating"></a>
+  <a href="https://github.com/Azeny/vscode-azeny">
+  <img src="https://img.shields.io/github/package-json/v/Azeny/vscode-azeny?style=for-the-badge&colorA=21222C&colorB=50F2A7" alt="Version"></a>
+
 </p>
 
 <!-- Daqui para cima alterar nos outros arquivos -->
@@ -30,7 +29,7 @@
     <img width='90%' alt="Azeny Theme" src="assets/language/js.png" ></a>
 </p>
 
-For more previews in other languages click [here](https://github.com/Azeny/visual-studio-code/blob/master/README-THEME.md#theme-image)
+### For more previews in other languages click [here](https://github.com/Azeny/vscode-azeny/blob/master/README-THEME.md#theme-image)
 
 - [Install](#install)
 - [Activate theme](#activate-theme)
@@ -52,6 +51,10 @@ For more previews in other languages click [here](https://github.com/Azeny/visua
 
 Type `theme`, choose `Preferences: Color Theme`, choose `Azeny` and press enter
 
+## Some error?
+
+Open one [issue](https://github.com/Azeny/vscode-azeny/issues) on github
+
 ---
 
-<p align="center"><a href="https://github.com/Azeny/visual-studio-code/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Azeny/visual-studio-code?style=for-the-badge&colorA=ff5555&colorB=cc4444"/></a></p>
+<p align="center"><a href="https://github.com/Azeny/vscode-azeny/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Azeny/vscode-azeny?style=for-the-badge&colorA=ff5555&colorB=cc4444"/></a></p>
