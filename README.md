@@ -5,11 +5,11 @@
 </p>
 
 <h1 align="center">
-  Azeny for Visual Studio Code
+  Azeny Theme
 </h1>
 
 <p align="center">
- A Night Theme for Night Programmers.
+ A Dark Theme for Dark Programmers.
 </p>
 
 <p align="center">
@@ -19,41 +19,36 @@
 
   <a href="https://github.com/Azeny/vscode-azeny">
   <img src="https://img.shields.io/github/package-json/v/Azeny/vscode-azeny?style=for-the-badge&colorA=21222C&colorB=50F2A7" alt="Version"></a>
-
 </p>
 
 <!-- Daqui para cima alterar nos outros arquivos -->
 
-<p align="center">
-  <a href="README-THEME.md">
-    <img width='90%' alt="Azeny Theme" src="assets/language/js.png" ></a>
-</p>
+[![Azeny](assets/code.png)](https://github.com/Azeny/vscode-azeny/blob/master/README-THEME.md)
+
 
 ### For more previews in other languages click [here](https://github.com/Azeny/vscode-azeny/blob/master/README-THEME.md#theme-image)
 
 - [Install](#install)
 - [Activate theme](#activate-theme)
 
-### Install
+## Install
 
-1. Open your vscode and press `ctrol + shift + p`
-2. Search for `Install Extension` and press enter
-3. Write Azeny
+1. Open your vscode and press **ctrl + shift + p**
+2. Search for **Install Extension** and press enter
+3. Write **Azeny**
 4. Select it or press Enter to install
 
-### Activate Theme
+## Activate Theme
 
-|                                      OS                                      | Command            |
-| :--------------------------------------------------------------------------: | :----------------- |
-| <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=17 /> | `Ctrl + Shift + P` |
-|         <img src="https://www.microsoft.com/favicon.ico" width=15 />         | `Ctrl + Shift + P` |
-|        <img src="https://developer.apple.com/favicon.ico" width=20 />        | `⌘ + Shift + P`    |
+- <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=17 /> Ctrl + Shift + P
+- <img src="https://www.microsoft.com/favicon.ico" width=15 /> Ctrl + Shift + P
+- <img src="https://developer.apple.com/favicon.ico" width=20 /> ⌘ + Shift + P
 
-Type `theme`, choose `Preferences: Color Theme`, choose `Azeny` and press enter
+Type **theme**, choose **Preferences: Color Theme**, choose **Azeny** and press enter
 
-## Some error?
+### Some error?
 
-Open one [issue](https://github.com/Azeny/vscode-azeny/issues) on github
+Open one **[issue](https://github.com/Azeny/vscode-azeny/issues)** on github
 
 ---
 
