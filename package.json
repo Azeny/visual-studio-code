@@ -69,5 +69,9 @@
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
+  },
+  "dependencies": {
+    "global": "^4.4.0",
+    "vsce": "^1.75.0"
   }
 }
