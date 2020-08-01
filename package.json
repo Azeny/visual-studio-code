@@ -1,8 +1,8 @@
 {
   "name": "azeny",
   "displayName": "Azeny Theme",
-  "description": "A Night Theme for Night Programmers",
-  "version": "0.1.0",
+  "description": "A Dark Theme",
+  "version": "0.1.2",
   "publisher": "Azeny",
   "license": "MIT",
   "icon": "assets/logo.png",
@@ -46,12 +46,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Azeny/vscode-azeny.git"
+    "url": "https://github.com/joaopedroaats/vscode-azeny.git"
   },
   "bugs": {
-    "url": "https://github.com/Azeny/vscode-azeny/issues"
+    "url": "https://github.com/joaopedroaats/vscode-azeny/issues"
   },
-  "homepage": "https://github.com/Azeny/vscode-azeny#readme",
+  "homepage": "https://github.com/joaopedroaats/vscode-azeny#readme",
   "dependencies": {
     "vsce": "^1.75.0"
   },
