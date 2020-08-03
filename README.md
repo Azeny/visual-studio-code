@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=Azeny.azeny">
-    <img alt="Azeny Theme" src="https://avatars1.githubusercontent.com/u/59007294" width="200">
+    <img alt="Azeny Theme" src="https://azeny.gallerycdn.vsassets.io/extensions/azeny/azeny/0.1.2/1596301758015/Microsoft.VisualStudio.Services.Icons.Default" width="200">
   </a>
 </p>
 
@@ -9,27 +9,26 @@
 </h1>
 
 <p align="center">
- A Dark Theme for Dark Programmers.
+ A Dark Theme for All Programmers.
 </p>
 
 <p align="center">
-
   <a href="https://marketplace.visualstudio.com/items?itemName=Azeny.azeny"> 
-  <img src="https://vsmarketplacebadge.apphb.com/downloads/Azeny.azeny.svg?style=for-the-badge&colorA=21222C&colorB=50F2A7" alt="Downloads"></a>
+  <img src="https://vsmarketplacebadge.apphb.com/downloads/Azeny.azeny.svg?style=for-the-badge&colorA=21222C&colorB=373841" alt="Downloads"></a>
 
   <a href="https://github.com/Azeny/vscode-azeny">
-  <img src="https://img.shields.io/github/package-json/v/Azeny/vscode-azeny?style=for-the-badge&colorA=21222C&colorB=50F2A7" alt="Version"></a>
+  <img src="https://img.shields.io/github/package-json/v/Azeny/vscode-azeny?style=for-the-badge&colorA=21222C&colorB=373841" alt="Version"></a>
 </p>
 
 <!-- Daqui para cima alterar nos outros arquivos -->
 
-[![Azeny](assets/code.png)](https://github.com/Azeny/vscode-azeny/blob/master/README-THEME.md)
+[![Azeny](assets/s3.png)](https://github.com/Azeny/vscode-azeny/blob/master/README-THEME.md)
+[![Azeny Inveny](assets/s1.png)](https://github.com/Azeny/vscode-azeny/blob/master/README-THEME.md)
+[![Azeny Okano](assets/s2.png)](https://github.com/Azeny/vscode-azeny/blob/master/README-THEME.md)
 
+### For more previews in other languages [click here](https://github.com/Azeny/vscode-azeny/blob/master/README-THEME.md#theme-image)
 
-### For more previews in other languages click [here](https://github.com/Azeny/vscode-azeny/blob/master/README-THEME.md#theme-image)
-
-- [Install](#install)
-- [Activate theme](#activate-theme)
+<br>
 
 ## Install
 
@@ -46,7 +45,7 @@
 
 Type **theme**, choose **Preferences: Color Theme**, choose **Azeny** and press enter
 
-### Some error?
+### Error?
 
 Open one **[issue](https://github.com/Azeny/vscode-azeny/issues)** on github
 
