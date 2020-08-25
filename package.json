@@ -2,7 +2,7 @@
   "name": "azeny",
   "displayName": "Azeny Theme",
   "description": "A Dark Theme",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "publisher": "Azeny",
   "license": "MIT",
   "icon": "assets/logo.png",
@@ -33,11 +33,6 @@
         "path": "./themes/azeny.json"
       },
       {
-        "label": "Azeny Inveny",
-        "uiTheme": "vs-dark",
-        "path": "./themes/inveny.json"
-      },
-      {
         "label": "Azeny Okano",
         "uiTheme": "vs-dark",
         "path": "./themes/okano.json"
@@ -46,12 +41,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/joaopedroaats/vscode-azeny.git"
+    "url": "https://github.com/joaopedroaats/azeny-vscode.git"
   },
   "bugs": {
-    "url": "https://github.com/joaopedroaats/vscode-azeny/issues"
+    "url": "https://github.com/joaopedroaats/azeny-vscode/issues"
   },
-  "homepage": "https://github.com/joaopedroaats/vscode-azeny#readme",
+  "homepage": "https://github.com/joaopedroaats/azeny-vscode#readme",
   "devDependencies": {
     "git-commit-msg-linter": "^2.4.4"
   }
